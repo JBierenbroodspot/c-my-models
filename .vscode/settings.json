@@ -1,5 +1,7 @@
 {
     "editor.formatOnSave": true,
+    "files.exclude": {},
+    "explorer.excludeGitIgnore": true,
     "[c]": {
         "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
     },
