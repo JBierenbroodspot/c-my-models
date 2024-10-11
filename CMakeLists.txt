@@ -12,3 +12,7 @@ include_directories(${CMAKE_SOURCE_DIR}/include)
 
 add_subdirectory(src)
 add_subdirectory(lib)
+
+if(BUILD_TESTING)
+    add_subdirectory(test)
+endif()
