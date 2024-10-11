@@ -4,4 +4,7 @@
         "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
     },
     "clangd.enableCodeCompletion": true,
+    "doxdocgen.generic.authorEmail": "jim12.brood@gmail.com",
+    "doxdocgen.generic.authorName": "Jimmy",
+    "doxdocgen.generic.useGitUserName": true,
 }
