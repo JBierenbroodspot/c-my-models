@@ -3,5 +3,5 @@
     "[c]": {
         "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
     },
-    "clangd.enableCodeCompletion": true
+    "clangd.enableCodeCompletion": true,
 }
